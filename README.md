@@ -1,18 +1,20 @@
-# Akia Video Demo ![Akia video demo](url_vers_video.mp4)
+## Akia Video Demo ![Akia video demo](url_vers_video.mp4)
 
 
-#  Akia - Réinventez Votre Espace de Vie  
+##  Akia - Réinventez Votre Espace de Vie  
 Bienvenue sur Akia, l'expérience ultime d'achat de meubles prêt à monter . Nous ne vendons pas seulement des meubles, nous offrons la possibilité de créer un espace qui reflète votre style unique. Avec Akia, le 
 montage devient une expérience sans effort grâce à notre service professionnel d'assemblage.
  <p align="center">
   <img src="AKIALogo.png" alt="Akia Logo">
 </p>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 48%; height: 200px;"> 
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture2.png" alt="Capture d'écran 2" style="width: 48%; height: 200px;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture3.png" alt="Capture d'écran 3" style="width: 48%; height: 200px;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture4.png" alt="Capture d'écran 4" style="width: 48%; height: 200px;">
+##  Capture Explicative
+
+<div justify-content: space-around;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 50%; height: 300px;"> 
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture2.png" alt="Capture d'écran 2" style="width: 49%; height: 300px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture3.png" alt="Capture d'écran 3" style="width: 50%; height: 300px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture4.png" alt="Capture d'écran 4" style="width: 49%; height: 300px;">
 </div>
 
 
