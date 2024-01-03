@@ -46,6 +46,22 @@ Nous sommes ravis de vous offrir une expérience de magasinage exceptionnelle. N
 4. **Démarrer l'Application :** Lancez l'application en utilisant la commande suivante.
    ```bash
     npm start
+
+## Authentification Backend :
+
+Pour activer la fonctionnalité de l'authentification côté backend, suivez ces étapes :
+
+### a. Déplacer le Dossier "react-back-auth" :
+
+Déplacez le dossier "react-back-auth" dans le répertoire "xampp/htdocs" sur votre serveur. Cette étape garantit que le backend d'authentification est dans l'emplacement correct pour une intégration sans problème.
+
+### b. Exécuter le Projet Laravel :
+
+Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécutez la commande suivante :
+
+```bash
+php artisan serve
+
   ## Réalisé par :
   |   NOM & Prénom        |
   |--------------------|
