@@ -1,0 +1,83 @@
+/* Montage.css */
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    /* Add styles for your navbar */
+    height: 60px; /* Adjust the height based on your design */
+    background-color: #333; /* Adjust the background color as needed */
+  }
+  
+  .footer {
+    /* Add styles for your footer */
+    height: 40px; /* Adjust the height based on your design */
+    background-color: #333; /* Adjust the background color as needed */
+  }
+  
+  .montage-fullpage {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9; /* Set a background color as needed */
+    margin: 0;
+    padding-top: 60px; /* Adjust the padding to avoid overlapping with the navbar */
+    padding-bottom: 40px; /* Adjust the padding to avoid overlapping with the footer */
+    box-sizing: border-box;
+  }
+  
+  .montage-container {
+    width: 100%;
+    max-width: 1200px; /* Adjust the max-width as needed */
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    flex-grow: 1;
+  }
+  
+  .montage-header {
+    text-align: left; /* Center the text */
+    font-size: large;
+    margin-bottom: 40px; /* Add some bottom margin */
+  }
+  
+  .montage-title {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .montage-image {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .montage-description {
+    margin-bottom: 50px;
+  }
+  
+  .montage-details {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+  }
+  
+  .montage-price-title {
+    font-weight: bold;
+    color: #333;
+    padding: 10px;
+    font-size: 20px;
+   
+  }
+  
+  .montage-service-list {
+    list-style-type: disc;
+    padding-left: 40px;
+  }
+  
+  /* Rest of your existing styles remain unchanged */
+  
