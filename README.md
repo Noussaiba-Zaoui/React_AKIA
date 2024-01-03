@@ -9,6 +9,7 @@ montage devient une expérience sans effort grâce à notre service professionne
   <img src="LogoAKIA.png" alt="Akia Logo">
 </p>
 
+
 ## Akia - Capture Descriptive
 
 <div justify-content: space-around;">
@@ -17,7 +18,6 @@ montage devient une expérience sans effort grâce à notre service professionne
     <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture3.png" alt="Capture d'écran 3" style="width: 50%; height: 200px;">
     <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture4.png" alt="Capture d'écran 4" style="width: 49%; height: 200px;">
 </div>
-
 
 
 
@@ -38,6 +38,7 @@ montage devient une expérience sans effort grâce à notre service professionne
 
 Nous sommes ravis de vous offrir une expérience de magasinage exceptionnelle. N'hésitez pas à explorer notre site et à nous contacter pour toute question ou assistance supplémentaire.
 
+
 ## Comment Commencer?
 
 1. **Cloner le Répertoire :** Utilisez la commande suivante pour cloner le projet sur votre machine locale.
@@ -53,9 +54,11 @@ Nous sommes ravis de vous offrir une expérience de magasinage exceptionnelle. N
    
 3. **Configurer l'Environnement :** Créez un fichier .env à la racine du projet et configurez les variables d'environnement nécessaires.  
 
+
 4. **Démarrer l'Application :** Lancez l'application en utilisant la commande suivante.
    ```bash
     npm start
+
 
 ## Authentification Backend :
 
@@ -84,6 +87,8 @@ Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécute
     ```
 
 Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
+
+
 
 ### Réalisé par :
 
