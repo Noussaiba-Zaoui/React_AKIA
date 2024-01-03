@@ -1,12 +1,12 @@
+# Akia Video Demo ![Akia video demo](url_vers_video.mp4)
+
+
 #  Akia - Réinventez Votre Espace de Vie  
+Bienvenue sur Akia, l'expérience ultime d'achat de meubles prêt à monter . Nous ne vendons pas seulement des meubles, nous offrons la possibilité de créer un espace qui reflète votre style unique. Avec Akia, le 
+montage devient une expérience sans effort grâce à notre service professionnel d'assemblage.
  <p align="center">
   <img src="AKIALogo.png" alt="Akia Logo">
 </p>
-
-Bienvenue sur Akia, l'expérience ultime d'achat de meubles prêt à monter . Nous ne vendons pas seulement des meubles, nous offrons la possibilité de créer un espace qui reflète votre style unique. Avec Akia, le 
-montage devient une expérience sans effort grâce à notre service professionnel d'assemblage.
-
-## Akia Video Demo ![Akia video demo](url_vers_video.mp4)
 
 ## Captures d'écran Explicatives :
 
@@ -14,14 +14,19 @@ montage devient une expérience sans effort grâce à notre service professionne
 ![Capture d'écran 2](url_vers_capture_2.png)
 
 ## Fonctionnalités principales:
+**Catalogue Étendu :** Parcourez notre vaste catalogue de meubles pour trouver le style qui correspond à vos goûts.
 
-- **Catalogue Étendu :** Parcourez notre vaste catalogue de meubles pour trouver le style qui correspond à vos goûts.
-  
 - **Commande en Ligne :** Faites vos achats en toute simplicité grâce à notre interface de commande conviviale.
 
 - **Assemblage Facile :** Nos meubles sont conçus pour un assemblage facile, accompagnés de guides détaillés.
 
 - **Livraison Rapide :** Profitez d'une livraison rapide à votre porte pour une expérience de magasinage sans tracas.
+
+- **Paiement en Ligne :** Simplifiez le processus d'achat en utilisant notre système de paiement en ligne sécurisé. Payez rapidement et en toute sécurité pour finaliser votre commande.
+
+- **Filtrage Avancé :** Personnalisez votre recherche avec nos fonctionnalités de filtrage avancé. Triez les meubles par catégorie, couleur et prix pour trouver exactement ce que vous recherchez.
+
+Nous sommes ravis de vous offrir une expérience de magasinage exceptionnelle. N'hésitez pas à explorer notre site et à nous contacter pour toute question ou assistance supplémentaire.
 
 ## Comment Commencer?
 
