@@ -5,7 +5,7 @@ const ShopNow = () => {
   return (
     <Link to="/Montage">
       <button className="bg-primeColor text-white text-lg font-bodyFont w-[185px] h-[50px] hover:bg-black duration-300 font-bold">
-        Voir les détails
+      Explore More
       </button>
     </Link>
   );

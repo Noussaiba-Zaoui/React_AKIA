@@ -1,15 +1,13 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Slider from "react-slick";
-import {
-  bannerImgOne,
-  bannerImgTwo,
-  bannerImgThree,
-} from "../../assets/images";
 import Image from "../designLayouts/Image";
-
+import  bannerOne from "../../assets/images/banner/bannerOne.png";
+import  bunnerTwo from "../../assets/images/banner/bunnerTwo.png";
+import  bunnerThree from "../../assets/images/banner/bunnerThree.png";
 const Banner = () => {
-  const [dotActive, setDocActive] = useState(0);
+  const [dotActive, setDotActive] = useState(0);
+
   const settings = {
     dots: true,
     infinite: true,
@@ -18,7 +16,7 @@ const Banner = () => {
     slidesToScroll: 1,
     arrows: false,
     beforeChange: (prev, next) => {
-      setDocActive(next);
+      setDotActive(next);
     },
     appendDots: (dots) => (
       <div
@@ -29,7 +27,7 @@ const Banner = () => {
           transform: "translateY(-50%)",
         }}
       >
-        <ul style={{ margin: "0px" }}> {dots} </ul>
+        <ul style={{ margin: "1350px" }}> {dots} </ul>
       </div>
     ),
     customPaging: (i) => (
@@ -99,22 +97,23 @@ const Banner = () => {
       },
     ],
   };
+
   return (
     <div className="w-full bg-white">
       <Slider {...settings}>
         <Link to="/offer">
           <div>
-            <Image imgSrc={bannerImgOne} />
+            <Image imgSrc={bunnerThree} />
           </div>
         </Link>
         <Link to="/offer">
           <div>
-            <Image imgSrc={bannerImgTwo} />
+            <Image imgSrc={bunnerTwo} />
           </div>
         </Link>
         <Link to="/offer">
           <div>
-            <Image imgSrc={bannerImgThree} />
+            <Image imgSrc={bannerOne} />
           </div>
         </Link>
       </Slider>

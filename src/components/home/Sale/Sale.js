@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Image from "../../designLayouts/Image";
 
 import pic2 from "../../../assets/images/products/pic2.webp";
-import pic5 from "../../../assets/images/products/pic5.png";
+import picguitar from "../../../assets/images/products/picguitar.png";
 import etagere from "../../../assets/images/products/etagere.webp";
 
 const Sale = () => {
@@ -22,7 +22,7 @@ const Sale = () => {
       </div>
       <div className="w-full md:w-1/3 h-cover">
         <Link to="/shop">
-          <Image style={imageStyle} imgSrc={pic5} />
+          <Image style={imageStyle} imgSrc={picguitar} />
         </Link>
       </div>
       <div className="w-full md:w-1/3 h-full">

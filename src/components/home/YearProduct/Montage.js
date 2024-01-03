@@ -9,28 +9,28 @@ const Montage = () => {
     <div className="montage-fullpage">
       <div className="montage-container">
         <div className="montage-header">
-          <h1 className="montage-title">Montage</h1>
+          <h1 className="montage-title">Assembly</h1>
           <img src={montage_pics} alt="montage_pics" className="montage-image" />
         </div>
         <div className="montage-description">
           <p>
             <span style={{ fontSize: '30px'} }>
               <strong>
-                Vous pouvez vous charger du montage, mais ce n’est pas<br></br> une obligation.
+                You can take care of the assembly, but it's not<br></br>mandatory.
               </strong><br />
             </span>
-            Pour vous faciliter les choses,
-            nous vous proposons un service qui se chargera de monter vos articles AKIA, chez vous<br></br>
-            ou sur votre lieu de travail.
+            To make things easier for you,
+            we offer a service that will take care of assembling your AKIA items at your<br></br>
+            home or workplace.
           </p>
         </div>
         <div className="montage-details">
           <div className="montage-price">
-            <p className="montage-price-title">Services inclus :</p>
+            <p className="montage-price-title">Included Services:</p>
             <ul className="montage-service-list">
-              <li><strong>Pour seulement 100 DH.</strong></li>
-              <li>Pour tout mobilier, de la pièce unique à la cuisine ou armoire-penderie complète.</li>
-              <li>Comprend l’enlèvement et le recyclage de tous les emballages.</li>
+              <li><strong>For only 100 DH.</strong></li>
+              <li>For any furniture, from individual pieces to complete kitchens or wardrobes.</li>
+              <li>Includes the removal and recycling of all packaging materials.</li>
             </ul>
           </div>
         </div>
