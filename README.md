@@ -88,7 +88,7 @@ Votre backend d'authentification est désormais opérationnel. Assurez-vous d'un
   |   NOM & Prénom    |
   |-------------------|
   |   LEGSIR Imane    | 
-  |   Dobli Hajar     | 
+  |   DOBLI Hajar     | 
   |   LAOUAJ Kaoutar  |
   |   ZAOUI Noussaiba |
   
