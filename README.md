@@ -10,8 +10,8 @@ montage devient une expérience sans effort grâce à notre service professionne
 
 ## Captures d'écran Explicatives :
 
-![Capture d'écran 1](url_vers_capture_1.png)
-![Capture d'écran 2](url_vers_capture_2.png)
+![Capture d'écran 1](capture1.png)
+![Capture d'écran 2](capture2.png)
 
 ## Fonctionnalités principales:
 **Catalogue Étendu :** Parcourez notre vaste catalogue de meubles pour trouver le style qui correspond à vos goûts.
