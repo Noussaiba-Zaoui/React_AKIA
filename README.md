@@ -86,10 +86,13 @@ Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécute
 Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
 
 ### Réalisé par :
-  |   NOM & Prénom    |
-  |-------------------|
-  |   LEGSIR Imane    | 
-  |   DOBLI Hajar     | 
-  |   LAOUAJ Kaoutar  |
-  |   ZAOUI Noussaiba |
+
+
+| NOM & Prénom       | Github Link                      |
+|---------------------|----------------------------------|
+| LEGSIR Imane        | [Github Link](https://github.com/ImeneLEG)  |
+| DOBLI Hajar         | [Github Link](URL_du_Lien_Hajar)  |
+| LAOUAJ Kaoutar      | [Github Link](URL_du_Lien_Kaoutar)|
+| ZAOUI Noussaiba     | [Github Link](https://github.com/Noussaiba-Zaoui)|
+
   
