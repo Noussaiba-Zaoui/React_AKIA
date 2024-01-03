@@ -97,7 +97,7 @@ Votre backend d'authentification est désormais opérationnel. Assurez-vous d'un
 |---------------------|----------------------------------|
 | LEGSIR Imane        | [Github Link](https://github.com/ImeneLEG)  |
 | DOBLI Hajar         | [Github Link](https://github.com/HajarDobli)  |
-| LAOUAJ Kaoutar      | [Github Link](URL_du_Lien_Kaoutar)|
+| LAOUAJ Kaoutar      | [Github Link](https://github.com/Kaoutarlaouaj)|
 | ZAOUI Noussaiba     | [Github Link](https://github.com/Noussaiba-Zaoui)|
 
   
