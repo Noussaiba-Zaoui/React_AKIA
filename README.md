@@ -23,7 +23,7 @@ montage devient une expérience sans effort grâce à notre service professionne
 
 
 
-## Fonctionnalités principales:
+## Akia - Fonctionnalités principales:
 **Catalogue Étendu :** Parcourez notre vaste catalogue de meubles pour trouver le style qui correspond à vos goûts.
 
 - **Commande en Ligne :** Faites vos achats en toute simplicité grâce à notre interface de commande conviviale.
