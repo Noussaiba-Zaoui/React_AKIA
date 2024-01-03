@@ -72,12 +72,12 @@ const Footer = () => {
                 Subscribed Successfully !
               </motion.p>
             ) : (
-              <div className="w-full flex-col xl:flex-row flex justify-between items-center gap-4">
+              <div className="w-full flex-col xl:flex-row flex justify-between items-center gap-10">
                 <div className="flex flex-col w-full">
                   <input
                     onChange={(e) => setEmailInfo(e.target.value)}
                     value={emailInfo}
-                    className="w-full h-12 border-b border-gray-400 bg-transparent px-4 text-primeColor text-lg placeholder:text-base outline-none ml-7"
+                    className="w-full h-9 border-b border-gray-400 bg-transparent px-4 text-primeColor text-lg placeholder:text-base outline-none ml-7"
                     type="text"
                     placeholder="email@gmail.com"
                   />

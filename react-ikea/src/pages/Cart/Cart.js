@@ -39,10 +39,10 @@ const Cart = () => {
       {products.length > 0 ? (
         <div className="pb-20">
           <div className="w-full h-20 bg-[#F5F7F7] text-primeColor hidden lgl:grid grid-cols-5 place-content-center px-6 text-lg font-titleFont font-semibold">
-            <h2 className="col-span-2">Produit</h2>
-            <h2>Prix</h2>
-            <h2>Quantité</h2>
-            <h2>Sous Total</h2>
+            <h2 className="col-span-2">Products</h2>
+            <h2>Price</h2>
+            <h2>Quantity</h2>
+            <h2>Subtotal</h2>
           </div>
           <div className="mt-5">
             {products.map((item) => (
@@ -56,22 +56,22 @@ const Cart = () => {
             onClick={() => dispatch(resetCart())}
             className="py-2 px-10 bg-blue-600 rounded-md text-white font-semibold uppercase mb-4 hover:bg-blue-700 duration-300"
           >
-           Réinitialiser 
+           Reset 
           </button>
 
           
           <div className="max-w-7xl gap-4 flex justify-end mt-4">
             <div className="w-96 flex flex-col gap-4">
-              <h1 className="text-2xl font-semibold text-right">Total du panier</h1>
+              <h1 className="text-2xl font-semibold text-right">Cart Total</h1>
               <div>
                 <p className="flex items-center justify-between border-[1px] border-gray-400 border-b-0 py-1.5 text-lg px-4 font-medium">
-                  Sous Total
+                Subtotal
                   <span className="font-semibold tracking-wide font-titleFont">
                     ${totalAmt}
                   </span>
                 </p>
                 <p className="flex items-center justify-between border-[1px] border-gray-400 border-b-0 py-1.5 text-lg px-4 font-medium">
-                Frais de livraison
+                Delivery Fees
                   <span className="font-semibold tracking-wide font-titleFont">
                     ${shippingCharge}
                   </span>
@@ -115,14 +115,14 @@ const Cart = () => {
           </div>
           <div className="max-w-[500px] p-4 py-8 bg-white flex gap-4 flex-col items-center rounded-md shadow-lg">
             <h1 className="font-titleFont text-xl font-bold uppercase">
-            Votre panier est vide.
+            Your cart is empty !
             </h1>
             <p className="text-sm text-center px-10 -mt-2">
-            Continuez vos achats maintenant et profitez de produits spéciaux et d'avantages.
+            Continue shopping now and enjoy special products and benefits
             </p>
             <Link to="/shop">
               <button className="bg-blue-800 rounded-md cursor-pointer hover:bg-blue-600 active:bg-gray-900 px-8 py-2 font-titleFont font-semibold text-lg text-gray-200 hover:text-white duration-300">
-              Continuez vos achats
+              Continue shopping
               </button>
             </Link>
           </div>
