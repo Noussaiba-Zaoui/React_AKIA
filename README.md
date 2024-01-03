@@ -11,10 +11,10 @@ montage devient une expérience sans effort grâce à notre service professionne
 ##  Capture Explicative
 
 <div justify-content: space-around;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 50%; height: 300px;"> 
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture2.png" alt="Capture d'écran 2" style="width: 49%; height: 300px;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture3.png" alt="Capture d'écran 3" style="width: 50%; height: 300px;">
-    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture4.png" alt="Capture d'écran 4" style="width: 49%; height: 300px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 50%; height: 200px;"> 
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture2.png" alt="Capture d'écran 2" style="width: 49%; height: 200px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture3.png" alt="Capture d'écran 3" style="width: 50%; height: 200px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/5a670ce8f79df41d06f1f8dccf9e7504d3088c65/Capture4.png" alt="Capture d'écran 4" style="width: 49%; height: 200px;">
 </div>
 
 
