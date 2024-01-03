@@ -1,4 +1,5 @@
-## Akia Video Demo ![Akia video demo](VIDEO.mp4)
+## Akia Video Demo :
+   https://github.com/Noussaiba-Zaoui/React_AKIA/blob/90b5e61296211a10546f37a2f604bebea0f2c1fd/VIDEO.mp4
 
 
 ##  Akia - Réinventez Votre Espace de Vie  
