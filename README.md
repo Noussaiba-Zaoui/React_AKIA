@@ -8,10 +8,17 @@ montage devient une expérience sans effort grâce à notre service professionne
   <img src="AKIALogo.png" alt="Akia Logo">
 </p>
 
-## Captures d'écran Explicatives :
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 48%; height: 200px;"> 
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture2.png" alt="Capture d'écran 2" style="width: 48%; height: 200px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture3.png" alt="Capture d'écran 3" style="width: 48%; height: 200px;">
+    <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture4.png" alt="Capture d'écran 4" style="width: 48%; height: 200px;">
+</div>
 
-![Capture d'écran 1](capture1.png)
-![Capture d'écran 2](capture2.png)
+
+
+
+
 
 ## Fonctionnalités principales:
 **Catalogue Étendu :** Parcourez notre vaste catalogue de meubles pour trouver le style qui correspond à vos goûts.
