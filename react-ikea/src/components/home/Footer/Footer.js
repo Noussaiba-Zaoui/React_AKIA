@@ -1,12 +1,11 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import FooterListTitle from "./FooterListTitle";
-import { paymentCard } from "../../../assets/images";
-import Image from "../../designLayouts/Image";
 import { Link } from 'react-router-dom';
 
 
 const Footer = () => {
+  {/*your footer here*/}
   const [emailInfo, setEmailInfo] = useState("");
   const [subscription, setSubscription] = useState(false);
   const [errMsg, setErrMsg] = useState("");
