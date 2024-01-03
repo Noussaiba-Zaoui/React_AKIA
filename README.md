@@ -9,7 +9,7 @@ montage devient une expérience sans effort grâce à notre service professionne
   <img src="LogoAKIA.png" alt="Akia Logo">
 </p>
 
-##  Capture Explicative
+## Akia - Capture Explicative
 
 <div justify-content: space-around;">
     <img src="https://github.com/Noussaiba-Zaoui/React_AKIA/blob/02e985505c1af102e49e2fc93374d0ee2caa8b49/Capture1.png" alt="Capture d'écran 1" style="width: 50%; height: 200px;"> 
