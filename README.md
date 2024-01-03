@@ -33,6 +33,7 @@ montage devient une expérience sans effort grâce à notre service professionne
    ```bash
    cd akia-ecommerce
    npm install
+   npm run build
 
    
 3. **Configurer l'Environnement :** Créez un fichier .env à la racine du projet et configurez les variables d'environnement nécessaires.  
