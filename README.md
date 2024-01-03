@@ -60,8 +60,8 @@ Déplacez le dossier "react-back-auth" dans le répertoire "xampp/htdocs" sur vo
 Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécutez la commande suivante :
 ```bash
 php artisan serve
-
-### c.Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
+```
+Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
 
 ### Réalisé par :
   |   NOM & Prénom        |
