@@ -3,7 +3,7 @@ import { Link, NavLink, useLocation } from "react-router-dom";
 import { MdClose } from "react-icons/md";
 import { HiMenuAlt2 } from "react-icons/hi";
 import { motion } from "framer-motion";
-import {  logoLight } from "../../../assets/images";
+import  akialogo  from "../../../assets/images/akialogo.png";
 import { navBarList } from "../../../constants";
 import Flex from "../../designLayouts/Flex";
 
@@ -72,8 +72,8 @@ const Header = () => {
                   <div className="w-full h-full bg-primeColor p-6">
                     <img
                       className="w-28 mb-6"
-                      src={logoLight}
-                      alt="logoLight"
+                      src={akialogo}
+                      alt="akialogo"
                     />
                     <ul className="text-gray-200 flex flex-col gap-2">
                       {navBarList.map((item) => (
