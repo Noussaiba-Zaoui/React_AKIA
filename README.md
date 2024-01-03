@@ -55,12 +55,24 @@ Pour activer la fonctionnalité de l'authentification côté backend, suivez ces
 
 Déplacez le dossier "react-back-auth" dans le répertoire "xampp/htdocs" sur votre serveur. Cette étape garantit que le backend d'authentification est dans l'emplacement correct pour une intégration sans problème.
 
-### b. Exécuter le Projet Laravel :
+### b. Créer la Base de Données :
 
-Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécutez la commande suivante :
-```bash
-php artisan serve
-```
+Assurez-vous d'avoir créé une base de données avec le nom spécifié dans le fichier .env.
+
+### c. Exécuter le Projet Laravel :
+
+Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécutez les commandes suivantes :
+
+1. **Exécuter les Migrations :** Lancez les migrations pour créer les tables nécessaires dans la base de données.
+    ```bash
+    php artisan migrate
+    ```
+
+2. **Démarrer le Serveur Laravel :**
+    ```bash
+    php artisan serve
+    ```
+
 Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
 
 ### Réalisé par :
