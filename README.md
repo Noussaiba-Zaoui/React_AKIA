@@ -62,11 +62,13 @@ Ouvrez un terminal, naviguez jusqu'au répertoire du projet Laravel, et exécute
 ```bash
 php artisan serve
 
-  ## Réalisé par :
+Votre backend d'authentification est désormais opérationnel. Assurez-vous d'une configuration correcte pour une intégration transparente avec React.
+
+## Réalisé par :
   |   NOM & Prénom        |
   |--------------------|
   |   LEGSIR Imane       | 
   |   LAOUAJ Kaoutar     | 
   |   DOBLI Hajar        |
-  |   ZAOUI Nousseiba    |
+  |   ZAOUI Noussaiba    |
   
