@@ -6,7 +6,7 @@
 Bienvenue sur Akia, l'expérience ultime d'achat de meubles prêt à monter . Nous ne vendons pas seulement des meubles, nous offrons la possibilité de créer un espace qui reflète votre style unique. Avec Akia, le 
 montage devient une expérience sans effort grâce à notre service professionnel d'assemblage.
  <p align="center">
-  <img src="front.png" alt="Akia Logo">
+  <img src="LogoAkia.png" alt="Akia Logo">
 </p>
 
 
